@@ -1,0 +1,23 @@
+{
+  "name": "backbone-po",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Luisangonzalez <luisangonzalez@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "backbone": "1.0.0",
+    "jquery": "^2.2.3",
+    "backbone.localStorage": "Backbone.localStorage#^1.1.16",
+    "underscore": "^1.8.3"
+  }
+}
